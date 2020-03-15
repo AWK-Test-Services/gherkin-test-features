@@ -6,7 +6,7 @@ Feature: A user must login to verify that a person is who that person says he/sh
   As a user
   I want to login
   In order to get access to the correct information
-  <ftr-image src="../Example-image.png" type="png">
+  <ftr-image src="./feature-additions/Example-image.png" type="png">
   and to allow me to update some information
 
   Background:
