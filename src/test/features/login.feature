@@ -4,8 +4,9 @@
 Feature: A user must login to verify that a person is who that person says he/she is
 
   As a user
-  I want to login <ftr-image src="../Exxample-image.png" type="png">
+  I want to login
   In order to get access to the correct information
+  <ftr-image src="../Example-image.png" type="png">
   and to allow me to update some information
 
   Background:
